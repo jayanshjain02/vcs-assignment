@@ -1,1 +1,1 @@
-print("Hello from Python!")
+print("Hey there from Python (different tone)!")
